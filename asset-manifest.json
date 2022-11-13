@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/drum-machine/static/css/main.1e0e29a6.css",
+    "main.js": "/drum-machine/static/js/main.002a253a.js",
+    "static/js/787.c419f7a1.chunk.js": "/drum-machine/static/js/787.c419f7a1.chunk.js",
+    "static/media/aChord2.mp3": "/drum-machine/static/media/aChord2.5a85fff71c7e355427ce.mp3",
+    "static/media/eChord1.mp3": "/drum-machine/static/media/eChord1.28ea1d4e485f47cb905e.mp3",
+    "static/media/aChord3.mp3": "/drum-machine/static/media/aChord3.303eb837adadb285a5c5.mp3",
+    "static/media/aChord1.mp3": "/drum-machine/static/media/aChord1.71f2ab07c2e7594df805.mp3",
+    "static/media/eChord2.mp3": "/drum-machine/static/media/eChord2.96fce225e5b2befafea4.mp3",
+    "static/media/eChord3.mp3": "/drum-machine/static/media/eChord3.79b0fbf79c80725bac07.mp3",
+    "static/media/aOpenHat.mp3": "/drum-machine/static/media/aOpenHat.49fa72503c03b77c1b25.mp3",
+    "static/media/aTom2.mp3": "/drum-machine/static/media/aTom2.d613c69a340a6e5a9f59.mp3",
+    "static/media/aTom1.mp3": "/drum-machine/static/media/aTom1.c10f299ad6185bcd7288.mp3",
+    "static/media/eKick.mp3": "/drum-machine/static/media/eKick.052ee7ff9fd08140e95f.mp3",
+    "static/media/eOpenHat.mp3": "/drum-machine/static/media/eOpenHat.51ad9b8b8e0344a91feb.mp3",
+    "static/media/eClap.mp3": "/drum-machine/static/media/eClap.d7f71f3fd0868746ee19.mp3",
+    "static/media/aKick.mp3": "/drum-machine/static/media/aKick.4ddacdd7c71f810f1c07.mp3",
+    "static/media/eSnare.mp3": "/drum-machine/static/media/eSnare.baa38399d3585b75d39a.mp3",
+    "static/media/aSnare.mp3": "/drum-machine/static/media/aSnare.a0f28a3967576c7eae4e.mp3",
+    "static/media/aClosedHat.mp3": "/drum-machine/static/media/aClosedHat.179eb8785ed3a9833d51.mp3",
+    "static/media/eTom.mp3": "/drum-machine/static/media/eTom.d2c03cb1f00fddd4fbe5.mp3",
+    "static/media/eClosedHat.mp3": "/drum-machine/static/media/eClosedHat.3ad0731ba3f642bdab5e.mp3",
+    "index.html": "/drum-machine/index.html",
+    "main.1e0e29a6.css.map": "/drum-machine/static/css/main.1e0e29a6.css.map",
+    "main.002a253a.js.map": "/drum-machine/static/js/main.002a253a.js.map",
+    "787.c419f7a1.chunk.js.map": "/drum-machine/static/js/787.c419f7a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e0e29a6.css",
+    "static/js/main.002a253a.js"
+  ]
+}
